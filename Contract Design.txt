@@ -1,0 +1,49 @@
+Idea - To remove the intermediate between artists and public.
+
+Design - 
+
+contract EventManager
+
+
+string EventHead;
+string Location,fees,Date&Time,MaxAllowed,EventDescription,EventName,EventSponsors,NumberOfArtists;
+
+
+constructor EventManager() - done
+
+function AddArtist(
+	Artist Name
+	Artist Time
+	Category
+)
+
+function AddVenue( 
+	function VenueTimeLine()
+)
+function AddPM() //PublicityManager
+
+function PMRegistration()
+
+function ArtistRegistration()
+
+function VenueRegistration()
+
+function AddSponsors()
+
+function SponsorsRegistration()
+
+function Registration(
+	Name
+	ID proof
+ 	Event Id(for which registration you want)
+	Number of Members(including you)
+	Amount to be paid(Number of Members*Event fees)
+	
+)
+
+
+
+
+
+	
+	
